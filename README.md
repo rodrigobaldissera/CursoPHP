@@ -1,2 +1,2 @@
 # CursoPHP
- Curso de PHP do Curso em Vídeo
+ Curso de PHP do Curso em Vídeo.
