@@ -8,7 +8,10 @@
 <body>
 <div>
     <?php
-      
+        $a = 3;
+        $b = "3";
+        $r = ($a === $b) ? "SIM" :"NÃO";
+        echo "As variáveis A e B são idênticas? $r";
     ?>
 </div>
 </body>
